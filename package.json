@@ -1,0 +1,15 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "learning to set up react",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Nicole Hippolite",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
